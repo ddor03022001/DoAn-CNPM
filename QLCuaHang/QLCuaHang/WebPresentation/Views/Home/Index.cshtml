@@ -1,0 +1,35 @@
+﻿@using BusinessLogic
+@using System.Data
+@{
+    ViewBag.Title = "Home Page";
+    DataTable dt = new GoodsBusiness().GetList();
+}
+
+<div class="row">
+    <h2>Danh sách sản phẩm</h2>
+    <div class="col-md-12">
+        <table class="table table-hover table-bordered">
+            <thead>
+                <tr>
+                    <td>STT</td>
+                    <td>Mã sản phẩm</td>
+                    <td>Tên sản phẩm</td>
+                    <td>Số lượng hàng tồn</td>
+                    <td>Thao tác</td>
+                </tr>
+            </thead>
+            <tbody>
+                @for (int i = 0; i < dt.Rows.Count; i++)
+                {
+                    <tr>
+                        <td>@(i + 1)</td>
+                        <td>@dt.Rows[i]["Id"]</td>
+                        <td>@dt.Rows[i]["Name"]</td>
+                        <td>@dt.Rows[i]["Amount"]</td>
+                        <td><a href="/Home/Order/@dt.Rows[i]["Id"]" class="btn btn-primary">Đặt hàng</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

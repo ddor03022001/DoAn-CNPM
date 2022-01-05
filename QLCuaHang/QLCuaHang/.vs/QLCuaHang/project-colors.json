@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f41478c9-f079-49d5-9495-d7910429ac55": {
+      "ProjectGuid": "f41478c9-f079-49d5-9495-d7910429ac55",
+      "DisplayName": "QLCuaHang",
+      "ColorIndex": 0
+    },
+    "63aaea9e-b1aa-44c3-9ee9-9ab3c9cc3d6d": {
+      "ProjectGuid": "63aaea9e-b1aa-44c3-9ee9-9ab3c9cc3d6d",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 1
+    },
+    "49b5a0e0-ec0a-481f-9e7a-4c9f9351ce58": {
+      "ProjectGuid": "49b5a0e0-ec0a-481f-9e7a-4c9f9351ce58",
+      "DisplayName": "BusinessLogic",
+      "ColorIndex": 2
+    },
+    "3d17c75b-6bda-48ec-84e5-16e8ff17b04f": {
+      "ProjectGuid": "3d17c75b-6bda-48ec-84e5-16e8ff17b04f",
+      "DisplayName": "Presentation",
+      "ColorIndex": 3
+    },
+    "9a458b6e-2946-48f0-bfef-cc3a951788af": {
+      "ProjectGuid": "9a458b6e-2946-48f0-bfef-cc3a951788af",
+      "DisplayName": "WebPresentation",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

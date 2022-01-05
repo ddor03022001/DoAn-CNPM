@@ -1,0 +1,12 @@
+C:\Users\nguoi\Desktop\QLCuaHang\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\nguoi\Desktop\QLCuaHang\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\nguoi\Desktop\QLCuaHang\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\nguoi\Desktop\QLCuaHang\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\nguoi\Desktop\QLCuaHang\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\nguoi\Desktop\QLCuaHang\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\ADmin\Downloads\QLCuaHang\QLCuaHang\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\ADmin\Downloads\QLCuaHang\QLCuaHang\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\ADmin\Downloads\QLCuaHang\QLCuaHang\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\ADmin\Downloads\QLCuaHang\QLCuaHang\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ADmin\Downloads\QLCuaHang\QLCuaHang\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\ADmin\Downloads\QLCuaHang\QLCuaHang\DataAccess\obj\Debug\DataAccess.pdb
